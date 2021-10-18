@@ -23,3 +23,7 @@ penguins_graph <- ggplot(data = penguins, aes(x = flipper_length_mm,
 ggplotly(penguins_graph)
 ```
 
+```{r}
+datatable(penguins)
+```
+
