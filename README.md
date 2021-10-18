@@ -1,2 +1,2 @@
-# esm206_lab4_part1_es
+# Lab 4 Repo Setup
 This repo contains example code created for practice 
