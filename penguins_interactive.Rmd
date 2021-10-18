@@ -5,7 +5,17 @@ date: "10/18/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include = TRUE, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+library(plotly)
+library(DT)
+library(tidyversse)
+library(palmerpenguins)
+
+```
+
+```{r}
+
 ```
 
